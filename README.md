@@ -7,6 +7,16 @@
 The `queued_animated_sprites_macroquad` Rust crate offers an easy interface for animated sprite drawing
 focused around a queue-based design. It is built on top of [macroquad](https://crates.io/crates/macroquad) and provides flexibility with its animation effect system that enhances how your sprites are drawn with little extra work. 
 
+## Installation
+
+Add `queued_animated_sprites_macroquad` to your project via:
+
+```bash
+cargo add queued_animated_sprites_macroquad
+```
+
+Reminder, to use this library you also need to be using `macroquad` for your project.
+
 ## Features
 
 - Easy creation and management of sprite animations
