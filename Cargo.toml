@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Macroquad animated sprite drawing library focused around a queue-based design"
 license = "MIT"
-keywords = ["macroquad", "sprites", "animated sprites", "animations", "game dev"]
+keywords = ["macroquad", "sprites", "animated", "animations", "game"]
 
 
 [dependencies]
